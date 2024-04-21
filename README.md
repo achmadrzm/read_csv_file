@@ -1,7 +1,7 @@
 # read_csv_file
 A program that can read and process CSV files and has the option to display the required information
 
-====================================================================================================
+============================================================================================
 Pada sebuah program studi terdapat 4 buah mata kuliah (MK):
 MK-A
 MK-B
@@ -22,7 +22,7 @@ Kolom ke-3: Nilai yang didapat mahasiswa tersebut.
 
 Sebagai catatan, seorang mahasiswa boleh saja hanya mengambil mata kuliah tertentu. Sehingga NIM dan namanya mungkin hanya tercantum pada beberapa file saja. 
 
-====================================================================================================
+============================================================================================
 Tugas Anda adalah membuatlah sebuah program yang dapat mengolah keempat file CSV tersebut serta memiliki opsi untuk menampilkan informasi berikut:
 1. Menampilkan daftar mata kuliah yang diambil seorang mahasiswa beserta nilai yang dia dapatkan. Contoh:
 Input: 2488
